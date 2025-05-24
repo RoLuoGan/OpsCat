@@ -17,7 +17,7 @@ OpsCat 是一个为现代运维打造的一站式自动化平台，它封装了 
 🧠 智能助手（计划中）：内嵌 AI Agent（如 ChatOps 模式）辅助诊断、执行自动运维任务。
 
 🏗️ 系统架构图
-
+待补充
 
 
 
@@ -34,32 +34,9 @@ $ docker-compose up -d
 
 # 打开 http://localhost:8080 访问平台
 
-📁 项目结构（建议）
-
-opscat/
-├── frontend/         # React Web UI
-├── backend/          # 后端 API 服务
-│   ├── scheduler/    # 任务调度器
-│   ├── k8s/          # K8s 封装模块
-│   ├── prom/         # Prometheus 封装
-│   ├── ansible/      # Ansible 编排器
-│   └── core/         # 公共模块
-├── docs/             # 文档和使用说明
-├── deploy/           # Helm / Docker 安装方式
-└── README.md
-
-🎨 Logo 概念草图（文字描述）
-
-形象：一只戴着工程帽的猫，坐在终端前。尾巴缠绕着 Kubernetes 标志的图标。
-
-风格：简洁线稿 / 黑白主色 / 技术感十足但不失亲和力。
-
-灵感图标组合：🐱 + 🧰 + ⌨️ + ⚙️
-
-建议工具：Figma / Sketch / Adobe Illustrator 制作向量图。
 
 🌍 未来规划
-
+待补充
 
 
 🤝 贡献指南
